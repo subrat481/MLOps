@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/subratkumar/Downloads/backup/BITS-PILANI-MTECH/AIML_SEM-3/MLOps (S2-23_AIMLCZG523)/Code/C3/remote_storage
